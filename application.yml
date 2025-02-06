@@ -1,2 +1,2 @@
-application.name:
-             gateway
+appMapping: /gateway
+applicationName: ${spring.application.name}
